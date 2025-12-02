@@ -1,0 +1,10 @@
+streamlit
+chromadb
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+sentence-transformers
+unstructured[local-inference]
+pymupdf
+python-pptx
